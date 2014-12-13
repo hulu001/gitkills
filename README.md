@@ -4,4 +4,4 @@ gitkills
 
 
 
-new modify branch && simple
+new modify branch and tsimple
